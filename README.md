@@ -1,24 +1,20 @@
-# Digital Clock & Countdown Timer ⏱️
+<div align="center">
 
-A clean, responsive web application built with vanilla HTML, CSS, and JavaScript. It features a real-time digital clock with 12/24-hour mode toggling and an interactive countdown timer complete with sound alerts.
+# ⏱️ Digital Clock & Countdown Timer
 
-## 🚀 Features
+**A modern, responsive, zero-dependency web utility built with Vanilla JS.**
 
-* **Digital Clock:**
-  * Displays live updating hours, minutes, and seconds.
-  * Toggle between 12-hour (AM/PM) and 24-hour time formats with a single click.
-* **Countdown Timer:**
-  * Set custom durations using hours, minutes, and seconds inputs.
-  * Interactive controls: Start, Pause, and Reset.
-  * Built-in audio alert using the browser's Web Audio API when the timer reaches zero (no external media files required).
-* **Modern UI:**
-  * Fully responsive card layout optimized for mobile and desktop views.
-  * Built with modern CSS custom properties and dark mode aesthetics.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
-## 🛠️ Tech Stack
+[Live Demo](https://sukesh-r-dev.github.io/Digital-Clock-Countdown-Timer) · [Report Bug](https://github.com/Sukesh-r-dev/Digital-Clock-Countdown-Timer/issues) · [Request Feature](https://github.com/Sukesh-r-dev/Digital-Clock-Countdown-Timer/issues)
 
-* **HTML5** – Page structure and dynamic input fields
-* **CSS3** – Flexbox layouts, custom variables, and responsive design
-* **JavaScript (ES6+)** – DOM manipulation, `setInterval` logic, and Web Audio API synthesis
+</div>
 
-## 📁 Project Structure
+---
+
+## 📸 Preview
+
+> 💡 *Replace this placeholder with a real screenshot or animated GIF of your app.*
